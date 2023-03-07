@@ -1,5 +1,6 @@
-# MINI IMDB CLONE APP
-IMDB Clone is a simple web application that allows users to search for movies and view details about them. It was built using HTML, CSS, and JavaScript.
+# STOPWATCH
+
+This is a simple web-based stopwatch app built with HTML, CSS, and JavaScript. It allows users to start, pause, and reset the stopwatch, and displays the elapsed time in hours, minutes, and seconds.
 
 The app is hosted on GitHub Pages and can be accessed at [https://revanth-03.github.io/imdbclone.github.io/index.html](https://revanth-03.github.io/imdbclone.github.io/index.html).
 
@@ -17,27 +18,21 @@ The app is hosted on GitHub Pages and can be accessed at [https://revanth-03.git
 - [Additional Information](#additional-information)
 
 ## Features
-The IMDB Clone app comes with the following features:
+The stopwatch app comes with the following features:
 
-1. Search for movies using the search bar
-2. View movie details, including title, release year, director, actors, and plot summary
-3. Add movies to favorites list and view them later
-4. Remove movies from favorites list
-5. Autocomplete search suggestions for popular movies
+1. Start, stop, and reset functionality
+2. Elapsed time displayed in hours, minutes, and seconds
+3. Clear and easy-to-use interface
 
 
 ## Installation
-To clone the repository and open the `index.html` file, follow these steps:
 
-1. git clone https://github.com/revanth-03/imdbclone.github.io.git
-2. cd imdbclone.github.io
-3. open index.html
-
- or simply download the repository to your local machine. Then, open the `index.html` file in a web browser.<br>
+To use the stopwatch app, simply download or clone the repository to your local machine. Then, open the index.html file in a web browser.
 
 
 ## Usage
-To search for a movie, enter a search term into the search bar and press enter or click the search button. The app will display a list of movies that match the search term. Click on a movie to view its details. To add a movie to your favorites list, click the "Add to Favorites" button. To view your favorites list, click the "Favorites" button in the navigation bar. To remove a movie from your favorites list, click the "Remove from Favorites" button on the movie details page.
+
+To start the stopwatch, click the "Start" button. To pause the stopwatch, click the "Pause" button. To reset the stopwatch, click the "Reset" button.
 
 ## Contributing
 
@@ -52,9 +47,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Acknowledgements
 
-This app uses the [OMDb API](http://www.omdbapi.com/) to retrieve movie data.
+[W3Schools](https://www.w3schools.com/jsref/met_win_setinterval.asp) - for the setInterval() method used to update the stopwatch display
 
 ## Additional Information
-This app was created as a project for a web development course. It is not affiliated with or endorsed by IMDb or OMDb.
-
-**Note**: This is a fictional project created for educational purposes only.
+For more information on the stopwatch application and how it works, please refer to the comments in the JavaScript code.
