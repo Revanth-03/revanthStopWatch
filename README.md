@@ -2,6 +2,8 @@
 
 A simple web-based stopwatch app built with HTML, CSS, and JavaScript. It allows users to users to time themselves for different activities, and displays the elapsed time in hours, minutes, and seconds.
 
+You can also visit the hosted version of the stopwatch at [https://revanth-03.github.io/revanthStopWatch/](https://revanth-03.github.io/revanthStopWatch/).
+
 ## Table of Contents
 
 - [Features](#features)
