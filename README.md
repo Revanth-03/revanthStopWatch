@@ -11,38 +11,38 @@ A simple web-based stopwatch app built with HTML, CSS, and JavaScript. It allows
 - [License](#license)
 - [Demo](#demo)
 - [Acknowledgements](#acknowledgements)
-- [Additional Information](#additionalinformation)
+- [Additional Information](#additional-information)
 
 ## Features
 The stopwatch app comes with the following features:
 
-Start, stop, and reset functionality
-Elapsed time displayed in hours, minutes, and seconds
-Clear and easy-to-use interface
+1. Start, stop, and reset functionality
+2. Elapsed time displayed in hours, minutes, and seconds
+3. Clear and easy-to-use interface
 
 
 ## Installation
 
-**1.** To use the stopwatch app, simply download or clone the repository to your local machine. Then, open the `index.html` file in a web browser.<br>
+ To use the stopwatch app, simply download or clone the repository to your local machine. Then, open the `index.html` file in a web browser.<br>
 
 
 ## Usage
 
-2. To start the stopwatch, click the "Start" button. To pause the stopwatch, click the "Pause" button. To reset the stopwatch, click the "Reset" button.
+ To start the stopwatch, click the "Start" button. To stop the stopwatch, click the "stop" button. To reset the stopwatch, click the "Reset" button.
 
 ## Contributing
 
-Contributions are welcome! To contribute to the project, please follow the [contributing guidelines](CONTRIBUTING.md).
+ Contributions are always welcome! If you find a bug or have a feature request, please create an issue on the GitHub repository.
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Demo
-asldkfjalsfk
+
 
 ## Acknowledgements
-rtjkalsdkjld
+ [W3 Schools](https://www.w3schools.com/jsref/met_win_setinterval.asp) - for the setInteval() method used to update the stopwatch display
 
 ## Additional Information
-flsjdfaklsdf
+ For more information on the stopwatch application and how it works, please refer to the comments in the JavaScript code.
