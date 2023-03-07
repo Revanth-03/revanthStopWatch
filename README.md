@@ -4,6 +4,8 @@ A simple web-based stopwatch app built with HTML, CSS, and JavaScript. It allows
 
 You can also visit the hosted version of the stopwatch at [https://revanth-03.github.io/revanthStopWatch/](https://revanth-03.github.io/revanthStopWatch/).
 
+**Note!** Use Laptop for better user experince
+
 ## Table of Contents
 
 - [Features](#features)
