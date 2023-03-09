@@ -4,8 +4,6 @@ This is a simple web-based stopwatch app built with HTML, CSS, and JavaScript. I
 
 You can also visit the hosted version of the stopwatch at [https://revanth-03.github.io/revanthStopWatch/](https://revanth-03.github.io/revanthStopWatch/).
 
-
-
 **Note!** Use Laptop for better user experince
 
 ## Table of Contents
@@ -51,7 +49,9 @@ You can view a live demo of the app [here](https://youtu.be/gAFLOSp7lgE)
 
 ## Acknowledgements
 
-[W3Schools](https://www.w3schools.com/jsref/met_win_setinterval.asp) - for the setInterval() method used to update the stopwatch display
+[W3Schools](https://www.w3schools.com/jsref/met_win_setinterval.asp) - for the setInterval() method used to update the stopwatch display.
+
+The [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) framework for providing the responsive UI components used in the application.
 
 ## Additional Information
 For more information on the stopwatch application and how it works, please refer to the comments in the JavaScript code.
