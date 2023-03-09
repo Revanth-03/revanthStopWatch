@@ -51,7 +51,6 @@ You can view a live demo of the app [here](https://youtu.be/gAFLOSp7lgE)
 
 [W3Schools](https://www.w3schools.com/jsref/met_win_setinterval.asp) - for the setInterval() method used to update the stopwatch display.
 
-The [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) framework for providing the responsive UI components used in the application.
 
 ## Additional Information
 For more information on the stopwatch application and how it works, please refer to the comments in the JavaScript code.
