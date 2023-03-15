@@ -1,6 +1,6 @@
 # STOPWATCH
 
-This is a simple web-based stopwatch app built with HTML, CSS, and JavaScript. It allows users to start, pause, and reset the stopwatch, and displays the elapsed time in hours, minutes, and seconds.
+This is a simple web-based stopwatch app built with **HTML**, **CSS**, and **JavaScript**. It allows users to start, pause, and reset the stopwatch, and displays the elapsed time in hours, minutes, and seconds.
 
 You can also visit the hosted version of the stopwatch at [https://revanth-03.github.io/revanthStopWatch/](https://revanth-03.github.io/revanthStopWatch/).
 
